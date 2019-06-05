@@ -2,3 +2,5 @@ push1
 push2
 push3
 Conflict1
+merge1
+moreConflict
