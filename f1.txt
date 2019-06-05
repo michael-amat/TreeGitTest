@@ -1,4 +1,4 @@
 push1
 push2
 push3
-merge1
+Conflict1
