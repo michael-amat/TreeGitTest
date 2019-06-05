@@ -2,3 +2,4 @@ push1
 push2
 push3
 Conflict1
+conflict2
